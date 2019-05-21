@@ -1,8 +1,0 @@
-cryoSloshEvapPhaseChangeTwoPhaseMixtures/newCryoSloshEvapPhaseChangeMixture.C
-cryoSloshEvapPhaseChangeTwoPhaseMixtures/cryoSloshEvapPhaseChangeMixture.C
-thermoIncompressibleTwoPhaseMixture/thermoIncompressibleTwoPhaseMixture.C
-twoPhaseMixtureEThermo/twoPhaseMixtureEThermo.C
-leeModel/leeModel.C
-hardtWondraModel/hardtWondraModel.C
-
-LIB = $(FOAM_USER_LIBBIN)/libcryoSloshPhaseChangeTwoPhaseMixtures
